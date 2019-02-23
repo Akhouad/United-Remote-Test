@@ -1,6 +1,8 @@
 # United-Remote-Test
 United Remote Test using Vue.js + Node.js + Sails.js
 
+![alt text](https://im.ezgif.com/tmp/ezgif-1-e1e186f5b2c7.gif)
+
 ### Change MongoDB Credentials in these files :
 
 `server/config/env/production.js line:50`
