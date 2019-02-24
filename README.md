@@ -1,7 +1,7 @@
 # United-Remote-Test
 United Remote Test using Vue.js + Node.js + Sails.js
 
-![United Remote Test](https://im.ezgif.com/tmp/ezgif-1-e1e186f5b2c7.gif)
+[GIF](https://im.ezgif.com/tmp/ezgif-1-e1e186f5b2c7.gif)
 
 ### Change MongoDB Credentials in these files :
 
@@ -16,4 +16,4 @@ United Remote Test using Vue.js + Node.js + Sails.js
 
 ### Visit: http://localhost:8080/
 
-**Note:** In order to add seeds, edit `overwrite` value to `true` in `server/config/seeds.js`, go to http://localhost:8080/ then put back `overwrite` value to false in seeds file
+**Note:** In order to add seeds, edit `overwrite` value to `true` in `server/config/seeds.js`, go to http://localhost:8080/#/shops then put back `overwrite` value to false in seeds file
